@@ -2060,6 +2060,10 @@
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/texture_296.5.jpg"]
                 },
                 {
+                    "name": "Czech Airlines",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-800/738-%C4%8Dsa.jpg"]
+                },
+                {
                     "name": "Yemenia",
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/texture_298.5.jpg"]
                 },
