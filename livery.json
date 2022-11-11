@@ -230,6 +230,10 @@
                 {
                     "name": "Qantas (Rex Dasher livery)",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a380/rexdasher.png"]
+                },
+                {
+                    "name": "Czech Airlines",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a380/a380-csa.png"]
                 }
             ]
         },
