@@ -835,6 +835,10 @@
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-1000/qantas.jpg"]
                 },
                 {
+                    "name": "Freedom Airways",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a350-1000/a350-1000-freedom-airways.jpg"]
+                },
+                {
                     "name": "Airbus house livery (carbon fiber design)",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-1000/carbonfiber.png"]
                 }
