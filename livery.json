@@ -232,6 +232,10 @@
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a380/rexdasher.png"]
                 },
                 {
+                    "name": "Rokair (Black Radom)",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a380/a380-rokair.jpg"]
+                },                         
+                {
                     "name": "Czech Airlines (OK-NCA)",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a380/a380-csa.png"]
                 }
@@ -1183,6 +1187,14 @@
                 {
                     "name": "ACJ twotwenty",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a220-300/acj.jpg"]
+                },
+                {
+                    "name": "Air Sinai",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a220-300/a220-air-sinai(1).jpg"]
+                },
+                {
+                    "name": "Ryanair Luxembourg Celebration",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a220-300/a220-ryr-irl-lux.jpg"]
                 },
                 {
                     "name": "Czech Airlines",
