@@ -869,7 +869,7 @@
                 },
                 {
                     "name": "Vistara",
-                    "texture": ["/backend/aircraft/repository/Boeing%20787-10%20Dreamliner%20(ANA)_427352_3575/texture_53.jpg"]
+                    "texture": ["/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_53.jpg"]
                 },
                 {
                     "name": "Etihad (Formula 1 livery)",
@@ -929,7 +929,7 @@
                 },
                 {
                     "name": "Finnair",
-                    "texture": ["/backend/aircraft/repository/Boeing%20787-10%20Dreamliner%20(ANA)_427352_3575/texture_134.jpg"]
+                    "texture": ["/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_134.jpg"]
                 },
                 {
                     "name": "Aeromexico",
