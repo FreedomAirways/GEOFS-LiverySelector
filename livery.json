@@ -691,6 +691,19 @@
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/ed18c7ac37544f45428159145452bc2f5817c372/Spirit%20Old%20A319%20FINAL.png"]
                 },
                 {
+                    "name": "Czech Eurowings hybrid",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a319-100/A319-Czech-Airlines-Eurowings-Hybrid.jpg"]
+                },
+                {
+                    "name": "Czech Airlines",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a319-100/A319-Czech-Airlines.jpg"]
+                },
+        
+                {
+                    "name": "Windjet, The Windjet, The New Windjet Plot Aademy",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a319-100/A319-windjet.jpg"]
+                },
+                {
                     "name": "American Airlines (West design)",
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/texture_346.jpg"]
                 }
