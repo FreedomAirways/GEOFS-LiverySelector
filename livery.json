@@ -1132,12 +1132,12 @@
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b787-9/tvs.png"]
                 },
                 {
-                    "name": "Qantas (Rex Dasher livery)",
-                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b787-9/rexdasher.png"]
-                },
-                {
                     "name": "Freedom Airways",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b787-9/789freedomairways.jpg"]
+                },
+                {
+                    "name": "Qantas (Rex Dasher livery)",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b787-9/rexdasher.png"]
                 }
             ]
         },
