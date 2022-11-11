@@ -64,7 +64,7 @@
                 {
                     "name": "Jet2",
                     "texture": ["https://i.ibb.co/xjb8sXj/3-EXSi-UVMAP737-1.jpg"]
-                },editor
+                },
                 {
                     "name": "Jet2Holidays",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-700/j2h.png"]
@@ -996,10 +996,6 @@
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b787-9/ethiopian.png"]
                 },
                 {
-                    "name": "Freedom Airways",
-                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b787-9/789freedomairways.jpg"]
-                },
-                {
                     "name": "Qatar Airways",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b787-9/qatar.png"]
                 },
@@ -1138,7 +1134,11 @@
                 {
                     "name": "Qantas (Rex Dasher livery)",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b787-9/rexdasher.png"]
-                }
+                },
+                {
+                    "name": "Freedom Airways",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b787-9/789freedomairways.jpg"]
+                },
             ]
         },
         "3534": {
