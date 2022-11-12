@@ -1924,6 +1924,10 @@
                 "name": "Adria",
                 "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/adria/image0.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/adria/image1.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/adria/image2.jpg"]
             },
+                        {
+                "name": "Czech Airlines",
+                "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/bombardier_crj700/csa/image0-csa.jpg", "https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/bombardier_crj700/csa/image1-csa.jpg", "https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/bombardier_crj700/csa/image2-csa.jpg"]
+            },
             {
                 "name": "Lufthansa Regonal",
                 "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/lufthansa/lh0.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/lufthansa/lh1.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/lufthansa/lh2.jpg"]
