@@ -1515,6 +1515,10 @@
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/texture_216.jpg"]
                 },
                 {
+                    "name": "Condor (yellow design)",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a320neo/plain_2-csa.jpg"]
+                },
+                {
                     "name": "VIVA Aerobus",
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/texture_210.5.jpg"]
                 },
