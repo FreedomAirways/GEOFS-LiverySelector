@@ -706,6 +706,10 @@
                     "name": "Czech Airlines",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a319-100/A319-Czech-Airlines.jpg"]
                 },
+                {
+                    "name": "Czech Airlines - Mnichovice",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a319-100/A319-New-UV-czech-airlines-spirit-of-x.b-zacala-roku-2016-zs-tgm-mnichovice.jpg"]
+                },
         
                 {
                     "name": "Windjet, The New Windjet, The New Windjet Plot Aademy",
@@ -811,6 +815,10 @@
                 {
                     "name": "Freedom Airways",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/ATR_72-600/atr72-freedom.jpg"]
+                },
+                {
+                    "name": "Gair",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/ATR_72-600/atr72.jpg"]
                 },
                 {
                     "name": "FlyBe",
