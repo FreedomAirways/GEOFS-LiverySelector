@@ -708,7 +708,7 @@
                 },
         
                 {
-                    "name": "Windjet, The Windjet, The New Windjet Plot Aademy",
+                    "name": "Windjet, The New Windjet, The New Windjet Plot Aademy",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a319-100/A319-windjet.jpg"]
                 },
                 {
@@ -807,6 +807,10 @@
                 {
                     "name": "Blue Islands",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/ATR_72-600/blueislands.jpg"]
+                },
+                {
+                    "name": "Freedom Airways",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/ATR_72-600/atr72-freedom.jpg"]
                 },
                 {
                     "name": "FlyBe",
@@ -1973,6 +1977,10 @@
                 {
                     "name": "TUI (white design)",
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/TUI%20737-800%20White.jpg"]
+                },
+                {
+                    "name": "Tatra T3",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-800/b737-800.jpg"]
                 },
                 {
                     "name": "Thomson",
