@@ -724,6 +724,10 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a319-100/A319-New-UV-Indostar.jpg"]
                 },
                 {
+                    "name": "Gair",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a319-100/Gair%20A319.jpg"]
+                },        
+                {
                     "name": "American Airlines (West design)",
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/texture_346.jpg"]
                 }
@@ -815,6 +819,10 @@
                 {
                     "name": "Czech Airlines",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/ATR_72-600/csa.jpg"]
+                },
+                {
+                    "name": "Ufly Express",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/ATR_72-600/atr72-ufly-express.jpg"]
                 },
                 {
                     "name": "Blue Islands",
@@ -2007,6 +2015,9 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-800/b737-800.jpg"]
                 },
                 {
+                    "name": "Gair",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-800/gair.jpg"]
+                },
                     "name": "Thomson",
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/texture_283.jpg"]
                 },
