@@ -369,6 +369,10 @@
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/concorde/aeroscopia.jpg"]
                 },
                 {
+                    "name": "Česká Nízkonákladová Společnost - Dlouhej text livery",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/concorde/dlouhejtextxtxtxtx.jpg"]
+                },
+                {
                     "name": "Braniff International (planned livery)",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/concorde/barniff.jpg"]
                 }
