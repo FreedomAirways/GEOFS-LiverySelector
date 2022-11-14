@@ -1523,8 +1523,12 @@
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/texture_216.jpg"]
                 },
                 {
-                    "name": "Czech Airlines",
+                    "name": "Czech Airlines rent",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a320neo/plain_2-csa.jpg"]
+                },
+                {
+                    "name": "Czech Airlines",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a320neo/plain_2-csa2.jpg"]
                 },
                 {
                     "name": "VIVA Aerobus",
