@@ -1908,6 +1908,10 @@
                     "texture": ["/backend/aircraft/repository/Boeing p8I Neptune_427352_3292/texture_2.jpg"]
                 },
                 {
+                    "name": "SAS",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_p-8_poseidon/737-800_SAS.jpg"]
+                },
+                {
                     "name": "Royal Norwegian Air Force",
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/texture_193.jpg"]
                 }
