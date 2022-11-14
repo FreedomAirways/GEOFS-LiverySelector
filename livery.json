@@ -714,6 +714,10 @@
                     "name": "Czech Airlines - Mnichovice",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a319-100/A319-New-UV-czech-airlines-spirit-of-x.b-zacala-roku-2016-zs-tgm-mnichovice.jpg"]
                 },
+                {
+                    "name": "Czech Airlines new",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a319-100/A319-New-UV-csa.jpg"]
+                },
         
                 {
                     "name": "Windjet, The New Windjet, The New Windjet Plot Aademy",
@@ -1910,6 +1914,10 @@
                 {
                     "name": "SAS",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_p-8_poseidon/737-800_SAS.jpg"]
+                },
+                {
+                    "name": "Czech Airlines-Eurowings",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_p-8_poseidon/737-800_Template-hybridn%C3%ADneptun.jpg"]
                 },
                 {
                     "name": "Royal Norwegian Air Force",
