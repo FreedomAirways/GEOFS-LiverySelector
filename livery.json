@@ -1198,6 +1198,15 @@
                 }
             ]
         },
+        "2892": {
+            "index": [0],
+            "parts": [0],
+            "liveries": [{
+                    "name": "REX",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/saab_340/saab1.png, https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/saab_340/saab2.png"]
+                }  
+            ] 
+        },
         "2899": {
             "index": [0],
             "parts": [0],
