@@ -1209,6 +1209,10 @@
                     "name": "REX2test",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/saab_340/saab1.png"]
                 },  
+                {
+                    "name": "REX3test",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/saab_340/saab2.png"]
+                }
             ] 
         },
         "2899": {
