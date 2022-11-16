@@ -1182,7 +1182,7 @@
             ]
         },
         "3534": {
-            "index": [1],
+            "index": [0],
             "parts": [0],
             "liveries": [{
                     "name": "Airbus house livery",
@@ -1199,8 +1199,8 @@
             ]
         },
         "2892": {
-            "index": [0],
-            "parts": [0],
+            "index": [0, 1],
+            "parts": [0, 0],
             "liveries": [{
                     "name": "REX",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/saab_340/saab1.png, https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/saab_340/saab2.png"]
@@ -2300,7 +2300,7 @@
         ]
         },
         "4017": {
-            "index": [1],
+            "index": [0],
             "parts": [0],
             "liveries": [{
                 "name": "HOP!",
