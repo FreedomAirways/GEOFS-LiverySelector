@@ -1169,11 +1169,15 @@
                 },
                 {
                     "name": "Travel Service (planned livery)",
-                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b787-9/tvs.png"]
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b787-9/tvs.jpg"]
                 },
                 {
                     "name": "Freedom Airways",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b787-9/789freedomairways.jpg"]
+                },
+                {
+                    "name": "Fedex",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b787-9/789fedex.jpg"]
                 },
                 {
                     "name": "Qantas (Rex Dasher livery)",
