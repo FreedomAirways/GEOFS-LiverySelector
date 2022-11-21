@@ -691,6 +691,10 @@
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/Texture_278.jpg"]
                 },
                 {
+                    "name": "NorthEuropean Holidayds",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a319-100/nua319.png"]
+                },
+                {
                     "name": "Alitalia",
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/Alitalia_A319.png"]
                 },
@@ -1239,6 +1243,14 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a220-300/a220-freedom.jpg"]
                 },
                 {
+                    "name": "GeoAIR",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a220-300/220gfs.jpg"]
+                },
+                {
+                    "name": "Chelsea Airways",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a220-300/220chelsea.jpg"]
+                },
+                {
                     "name": "Air New Zealand",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a220-300/newz.jpg"]
                 },
@@ -1556,6 +1568,10 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a320neo/plain_2-csa2.jpg"]
                 },
                 {
+                    "name": "TWA",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a320neo/320ntwa.jpg"]
+                },
+                {
                     "name": "VIVA Aerobus",
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/texture_210.5.jpg"]
                 },
@@ -1705,6 +1721,10 @@
                 {
                     "name": "Air Explore",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-800/738-air-explore.jpg"]
+                },
+                {
+                    "name": "Gulf Air",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737max/38mg.jpg"]
                 },
                 {
                     "name": "United",
@@ -2078,6 +2098,10 @@
                 {
                     "name": "Gair",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-800/gair.jpg"]
+                },
+                {
+                    "name": "Lufthansa",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-800/738luft.jpg"]
                 },
                 {
                     "name": "Thomson",
