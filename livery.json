@@ -1180,6 +1180,10 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b787-9/789fedex.jpg"]
                 },
                 {
+                    "name": "Cebu - Qantas",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b787-9/cebuntas.png"]
+                },
+                {
                     "name": "Qantas (Rex Dasher livery)",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b787-9/rexdasher.png"]
                 }
