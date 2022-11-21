@@ -29,7 +29,7 @@ You can use LiverySelector without installation, or you can add it to your Tampe
 
 ### Quick test without installation
 
-You can use the LiverySelector without installation: just copy and paste the [main.js](https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/main.js) into the browser console.
+You can use the LiverySelector without installation: just copy and paste the [main.js](https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/main.js) into the browser console.
 
 You need to do that every time you want to use LiverySelector.
 For the first time you need to paste this line into the console:
