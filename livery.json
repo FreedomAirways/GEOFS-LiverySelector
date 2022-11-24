@@ -1851,6 +1851,10 @@
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/Flyr_737_MAX_8.png"]
                 },
                 {
+                    "name": "The new TWA",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-800/738twa.jpg"]
+                },
+                {
                     "name": "United (Star Wars - The rise of Skywalker livery)",
                     "texture": ["https://i.ibb.co/j8FnqhK/United-Star-Wars-737-Max-8.png"]
                 }
@@ -2223,6 +2227,10 @@
                 {
                     "name": "Czech Airlines",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-800/738-%C4%8Dsa.jpg"]
+                },
+                {
+                    "name": "The new TWA",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-800/738twa.jpg"]
                 },
                 {
                     "name": "Yemenia",
