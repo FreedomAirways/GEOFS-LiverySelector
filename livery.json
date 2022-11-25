@@ -833,6 +833,10 @@
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/ATR_72-600/csa.jpg"]
                 },
                 {
+                    "name": "The new TWA - The most American airline of ALL TIME",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/ATR_72-600/atr72twa.jpg"]
+                },
+                {
                     "name": "Ufly Express",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/ATR_72-600/atr72-ufly-express.jpg"]
                 },
