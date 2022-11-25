@@ -1578,9 +1578,45 @@
                 {
                     "name": "Airbus A360-500 house",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a320neo/a360-house.jpg"]
-                },        
+                },
                 {
-                    "name": "TWA",
+                    "name": "Airbus A360-500 ASL Airlines Belgium house",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a320neo/a360-asl.jpg"]
+                }, 
+                {
+                    "name": "Airbus A360-500 Czech Airlines house",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a320neo/a360-csa).jpg"]
+                },       
+                {
+                    "name": "Airbus A360-500 Czech Air Force house",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a320neo/a360-czaf.jpg"]
+                },         
+                {
+                    "name": "Airbus A360-500 Freedom Airways house",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a320neo/a360-freedom.jpg"]
+                },      
+                {
+                    "name": "Airbus A360-500 Air New Zealand house",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a320neo/a360-nz.jpg"]
+                },
+                {
+                    "name": "Airbus A360-500 mco (Maximum Capacity Option) Ryanair house",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a320neo/a360-ryr.jpg"]
+                },    
+                {
+                    "name": "Airbus A360-500 TUIfly house",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a320neo/a360-tui.jpg"]
+                },  
+                {
+                    "name": "Airbus A360-500 Travel Service/Smartwings house",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a320neo/a360-tvs.jpg"]
+                },
+                {
+                    "name": "Airbus A360-500 Virgin house",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a320neo/a360-virgin.jpg"]
+                },       
+                {
+                    "name": "The new TWA/TWA",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a320neo/320ntwa.jpg"]
                 },
                 {
