@@ -835,6 +835,10 @@
                 {
                     "name": "The new TWA - The most American airline of ALL TIME",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/ATR_72-600/atr72twa.jpg"]
+                },                
+                {
+                    "name": "Nemia Air Force",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/ATR_72-600/atr72%20n%C4%9Bmsk%C3%A9%20letectvo.jpg"]
                 },
                 {
                     "name": "Ufly Express",
@@ -2275,6 +2279,10 @@
                 {
                     "name": "Boeing 737-1000NGLC (Next Generation Low Cost) Smartwings House",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-800/Boeing%20737-1000.png"]
+                },
+                {
+                    "name": "Boeing 737-1000NGLC (Next Generation Low Cost) Blank livery",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-800/Boeing%20737-1000%20white.png"]
                 },
                 {
                     "name": "The new TWA",
