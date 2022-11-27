@@ -916,6 +916,19 @@
                 }
             ]
         },
+        "2420": {
+            "index": [0],
+            "parts": [0],
+            "liveries": [{
+                    "name": "ATR 42 Blank",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/maps/atr42.jpg"]
+                },
+                {
+                    "name": "ATR 42 Blank",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/maps/atr42.jpg"]
+                }
+            ]
+        {,            
         "3575": {
             "index": [0],
             "parts": [0],
