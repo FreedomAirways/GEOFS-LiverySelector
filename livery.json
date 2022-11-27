@@ -881,24 +881,19 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/ATR_72-600/atr72.jpg"]
                 },
                 {
-                    "name": "FlyBe",
-                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/ATR_72-600/flybe.png"]
-                }
-            ]
-        },
-        "2420": {
-            "index": [0],
-            "parts": [0],
-            "liveries": [{
                     "name": "ATR 42 Blank",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/maps/atr42.jpg"]
                 },
                 {
                     "name": "ATR 42",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/ATR_42/atr42slogem.jpg"]
+                },
+                {
+                    "name": "FlyBe",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/ATR_72-600/flybe.png"]
                 }
             ]
-        }, 
+        },
         "2973": {
             "index": [0],
             "parts" : [0],
