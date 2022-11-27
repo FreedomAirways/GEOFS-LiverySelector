@@ -2567,6 +2567,10 @@
                 "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/embraer_erj145lr/erj145lrtwa.jpg"]
             },
             {
+                "name": "EasyFly Airlines",
+                "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/embraer_erj145lr/easyflyairlines.jpg"]
+            },
+            {
                 "name": "Cross Air",
                 "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/embraer_erj145lr/crossair.jpg"]
             }
