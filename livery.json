@@ -130,6 +130,10 @@
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-700/aergentinas.jpg"]
                 },
                 {
+                    "name": "Gyorland Air Force",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-700/GYORLAND737.png"]
+                },
+                {
                     "name": "United (new design)",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-700/unitednew.jpg"]
                 },
@@ -639,6 +643,10 @@
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a319-100/bea.jpg"]
                 },
                 {
+                    "name": "Gyorland Air Force",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a319-100/GYORLAND1.jpg"]
+                },
+                {
                     "name": "Easyjet (old design)",
                     "texture": ["/backend/aircraft/repository/Philpians%20a319_230250_2879/texture_97.6.jpg"]
                 },
@@ -843,6 +851,14 @@
                 {
                     "name": "Nemia Air Force",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/ATR_72-600/atr72%20n%C4%9Bmsk%C3%A9%20letectvo.jpg"]
+                },
+                {
+                    "name": "Gyorland Air Force",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/ATR_72-600/GYORLAND.jpg"]
+                },
+                {
+                    "name": "Airgyor",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/ATR_72-600/airgyor2.jpg"]
                 },
                 {
                     "name": "Ufly Express",
@@ -1273,6 +1289,10 @@
                 {
                     "name": "Ryanair",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a220-300/a220-ryanair.jpg"]
+                },
+                {
+                    "name": "Airgyor",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a220-300/airgyor.jpg"]
                 },
                 {
                     "name": "Korean Air",
