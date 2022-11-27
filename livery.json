@@ -886,6 +886,19 @@
                 }
             ]
         },
+        "2420": {
+            "index": [0],
+            "parts": [0],
+            "liveries": [{
+                    "name": "ATR 42 Blank",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/maps/atr42.jpg"]
+                },
+                {
+                    "name": "ATR 42",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/ATR_42/atr42slogem.jpg"]
+                }
+            ]
+        }, 
         "2973": {
             "index": [0],
             "parts" : [0],
@@ -915,20 +928,7 @@
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-1000/carbonfiber.png"]
                 }
             ]
-        },
-        "2420": {
-            "index": [0],
-            "parts": [0],
-            "liveries": [{
-                    "name": "ATR 42 Blank",
-                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/maps/atr42.jpg"]
-                },
-                {
-                    "name": "ATR 42 Blank",
-                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/maps/atr42.jpg"]
-                }
-            ]
-        {,            
+        },           
         "3575": {
             "index": [0],
             "parts": [0],
