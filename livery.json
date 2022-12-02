@@ -1947,6 +1947,10 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-800/738twa.jpg"]
                 },
                 {
+                    "name": "Ryanair Desert gold",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737max/RYR_Desert_737-8.jpg"]
+                },
+                {
                     "name": "United (Star Wars - The rise of Skywalker livery)",
                     "texture": ["https://i.ibb.co/j8FnqhK/United-Star-Wars-737-Max-8.png"]
                 }
@@ -2231,6 +2235,10 @@
                 {
                     "name": "Ryan Air (Boeing house design)",
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/texture_289.jpg"]
+                },
+                {
+                    "name": "Ryanair Desert gold",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737max/RYR_Desert_737-8.jpg"]
                 },
                 {
                     "name": "Transavia",
