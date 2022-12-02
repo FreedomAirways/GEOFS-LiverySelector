@@ -1951,6 +1951,10 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737max/RYR_Desert_737-8.jpg"]
                 },
                 {
+                    "name": "Southwest Black and White",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737max/SWA_Black%26White_737-8.png"]
+                },
+                {
                     "name": "United (Star Wars - The rise of Skywalker livery)",
                     "texture": ["https://i.ibb.co/j8FnqhK/United-Star-Wars-737-Max-8.png"]
                 }
