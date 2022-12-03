@@ -1958,6 +1958,14 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737max/RYR_Desert_737-8.jpg"]
                 },
                 {
+                    "name": "Southwest Desert gold",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737max/SWA_Desert_737-8.png"]
+                },
+                {
+                    "name": "Southwest Canyon blue",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737max/SWA_Conyon_737-8.png"]
+                },
+                {
                     "name": "Southwest Black and White",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737max/SWA_Black%26White_737-8.png"]
                 },
