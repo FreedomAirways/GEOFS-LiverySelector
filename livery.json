@@ -21,6 +21,10 @@
                     "texture": ["/models/aircraft/premium/cessna_172/texture_0.jpg"]
                 },
                 {
+                    "name": "Czech Airlines",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/cessna_172/cessna-172-csa.jpg"]
+                },
+                {
                     "name": "Modern",
                     "texture": ["/models/aircraft/premium/cessna_172/texture_1.jpg"]
                 }
