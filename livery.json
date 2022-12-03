@@ -735,10 +735,13 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a319-100/A319-New-UV-czech-airlines-spirit-of-x.b-zacala-roku-2016-zs-tgm-mnichovice.jpg"]
                 },
                 {
+                    "name": "Czech Airlines - Skyteam livery",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a319-100/csaskyteam.jpg"]
+                },
+                {
                     "name": "Czech Airlines new",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a319-100/A319-New-UV-csa.jpg"]
                 },
-        
                 {
                     "name": "Windjet, The New Windjet, The New Windjet Plot Aademy",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a319-100/A319-windjet.jpg"]
