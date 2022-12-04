@@ -2428,6 +2428,10 @@
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-800/jeju.png"]
                 },
                 {
+                    "name": "Blank new",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-800/b737-800%20m.jpg"]
+                },
+                {
                     "name": "JEJU air (new design)",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-800/jejunew.png"]
                 },
