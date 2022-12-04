@@ -671,6 +671,10 @@
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/texture_203.jpg"]
                 },
                 {
+                    "name": "Air My Territory",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a319-100/amt.jpg"]
+                },
+                {
                     "name": "Air Serbia",
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/texture_200.jpg"]
                 },
