@@ -138,6 +138,14 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-700/GYORLAND737.png"]
                 },
                 {
+                    "name": "Air Krasnojev",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-700/b737-700%20air%20krasnojev.png"]
+                },
+                {
+                    "name": "SimSe Airlines",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-700/simse.png"]
+                },
+                {
                     "name": "United (new design)",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-700/unitednew.jpg"]
                 },
