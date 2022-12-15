@@ -1276,6 +1276,10 @@
                     "texture": ["https://raw.githubusercontent.com/iuhairways/a320214/main/alitalia.png"]
                 },
                 {
+                    "name": "Easytest Lauda",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus%20a320-214/a320eb.jpg"]
+                },
+                {
                     "name": "Easyjet (carrot design)",
                     "texture": ["https://raw.githubusercontent.com/iuhairways/a320214/main/easyjet.jpg"]
                 }
