@@ -2364,8 +2364,12 @@
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/texture_296.5.jpg"]
                 },
                 {
-                    "name": "Czech Airlines",
+                    "name": "Czech Airlines V2",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-800/738-%C4%8Dsa.jpg"]
+                },
+                {
+                    "name": "Czech Airlines",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-800/738-czech.jpg"]
                 },
                 {
                     "name": "Boeing 737-1000NGLC (Next Generation Low Cost) Smartwings House",
