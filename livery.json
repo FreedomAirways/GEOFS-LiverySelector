@@ -759,6 +759,10 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a319-100/A319-New-UV-csa.jpg"]
                 },
                 {
+                    "name": "Transwings",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a319-100/Transwings.jpg"]
+                },
+                {
                     "name": "Windjet, The New Windjet, The New Windjet Plot Aademy",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a319-100/A319-windjet.jpg"]
                 },
