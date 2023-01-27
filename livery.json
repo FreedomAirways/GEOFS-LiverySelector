@@ -2388,6 +2388,10 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-800/738twa.jpg"]
                 },
                 {
+                    "name": "Freedom Airways",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-800/738-freedom-airways.jpg"]
+                },
+                {
                     "name": "Yemenia",
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/texture_298.5.jpg"]
                 },
