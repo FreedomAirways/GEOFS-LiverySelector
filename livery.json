@@ -369,6 +369,10 @@
                     "texture": ["/models/aircraft/premium/concorde/texture_2.jpg"]
                 },
                 {
+                    "name": "Ryanair",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/concorde/concorde.jpg"]
+                },         
+                {
                     "name": "Aerospatiale France - British Aircraft Corporation house livery",
                     "texture": ["/models/aircraft/premium/concorde/texture_3.jpg"]
                 },
