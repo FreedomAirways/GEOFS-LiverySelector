@@ -2690,6 +2690,10 @@
                     "texture": ["https://www.geo-fs.com/backend/aircraft/repository/E01_166635_247/texture.png", "https://www.geo-fs.com/backend/aircraft/repository/E01_166635_247/texture.png", "https://www.geo-fs.com/backend/aircraft/repository/E01_166635_247/texture.png", "https://www.geo-fs.com/backend/aircraft/repository/E01_166635_247/texture.png"]
                 },
                 {
+                    "name": "Brussels Airlines",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/Dash%208_Brussels.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/Dash%208_Brussels.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/Dash%208_Brussels.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/Dash%208_Brussels.jpg"]
+                },
+                {
                     "name": "FlyBe (purple-white design)",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/flybepurple.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/flybepurple.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/flybepurple.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/flybepurple.jpg"]
                 }
