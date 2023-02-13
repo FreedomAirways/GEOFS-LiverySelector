@@ -2676,6 +2676,10 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/boeing_b737-200/732fa.jpg"]
                 },
                 {
+                    "name": "Metrojet US",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/boeing_b737-200/B%20737%20200%20US%20METROJET.png"]
+                },
+                {
                     "name": "Lufthansa",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/boeing_b737-200/b732%20lufthansa.png"]
                 },
