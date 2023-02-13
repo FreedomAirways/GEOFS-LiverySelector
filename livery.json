@@ -2672,6 +2672,10 @@
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/Air_Lanka_737_2.png"]
                 },
                 {
+                    "name": "Lufthansa",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/boeing_b737-200/b732%20lufthansa.png"]
+                },
+                {
                     "name": "British Airways",
                     "texture": ["/backend/aircraft/repository/737-200_450602_4140/Image_0.jpg"]
                 }
@@ -2696,6 +2700,16 @@
                 {
                     "name": "FlyBe (purple-white design)",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/flybepurple.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/flybepurple.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/flybepurple.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/flybepurple.jpg"]
+                }
+            ]
+        },
+        "4398": {
+            "index": [0],
+            "parts": [0],
+            "liveries": [
+                {
+                    "name": "Skybus",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bn_2/bnskybus.png"]
                 }
             ]
         }
