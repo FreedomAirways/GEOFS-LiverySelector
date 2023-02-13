@@ -2672,6 +2672,10 @@
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/Air_Lanka_737_2.png"]
                 },
                 {
+                    "name": "Freedom Airways",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/boeing_b737-200/732fa.jpg"]
+                },
+                {
                     "name": "Lufthansa",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/boeing_b737-200/b732%20lufthansa.png"]
                 },
@@ -2704,7 +2708,7 @@
             ]
         },
         "4398": {
-            "index": [0],
+            "index": [1],
             "parts": [0],
             "liveries": [
                 {
