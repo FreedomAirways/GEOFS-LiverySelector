@@ -2684,6 +2684,10 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/boeing_b737-200/b732%20lufthansa.png"]
                 },
                 {
+                    "name": "Air France",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/boeing_b737-200/Boeing%20737-200%20Air%20France.png"]
+                },
+                {
                     "name": "British Airways",
                     "texture": ["/backend/aircraft/repository/737-200_450602_4140/Image_0.jpg"]
                 }
