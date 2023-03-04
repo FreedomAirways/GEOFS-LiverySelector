@@ -876,6 +876,10 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/ATR_72-600/atr72sw.jpg"]
                 },
                 {
+                    "name": "Turbo Lines",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/ATR_72-600/TT.jpg"]
+                },
+                {
                     "name": "The new TWA - The most American airline of ALL TIME",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/ATR_72-600/atr72twa.jpg"]
                 },                
