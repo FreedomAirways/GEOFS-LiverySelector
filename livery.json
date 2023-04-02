@@ -2795,11 +2795,11 @@
                     },
                 {
                     "name": "Ostrava",
-                    "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/texture11ostrava_fre.jpg"]
+                    "texture": ["https://github.com/Spice9/stuff2/blob/main/texture_11ostrava_fre.jpg"]
                     },
                 {
                     "name": "Air Ostrava",
-                    "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/texture12airostrava_fre.jpg"]
+                    "texture": ["https://github.com/Spice9/stuff2/blob/main/tex12airostrava_fre.jpg"]
                     },
                 {
                     "name": "Pacific Coastal",
