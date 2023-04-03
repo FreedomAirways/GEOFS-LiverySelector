@@ -2802,6 +2802,14 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/saab_340/airosr340.jpg"]
                     },
                 {
+                    "name": "Rokair Regional (new livery)",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/saab_340/rok340.jpg"]
+                    },
+                {
+                    "name": "Nemia NLL",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/saab_340/NLL340n.jpg"]
+                    },
+                {
                     "name": "Pacific Coastal",
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/tex13pacifwelo.jpg"]
                 }
