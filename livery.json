@@ -2813,6 +2813,10 @@
                     "name": "Húsavík Airlines",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/saab_340/hus340.jpg"]
                     },
+                    {
+                    "name": "SAS Airlines",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/saab_340/SAS340.png"]
+                    },
                 {
                     "name": "Pacific Coastal",
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/tex13pacifwelo.jpg"]
