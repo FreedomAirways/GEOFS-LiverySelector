@@ -2858,13 +2858,13 @@
                     "name": "US Air Force",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/douglas_dc3/speculars/specular-fullpaint-matt.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/douglas_dc3/usaf.png"]
                 },
-                                {
+                {
                     "name": "test",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/douglas_dc3/speculars/specular-fullpaint-matt.png"]
                 },
                 {
                     "name": "Buffalo Airways",
-                    "texture": ["https://i.ibb.co/M9Yq31V/specular-buffalo.png", "https://i.ibb.co/GPvy9dx/buffalo-DC31.png"]
+                    "texture": ["https://i.ibb.co/M9Yq31V/specular-buffalo.png", "https://raw.githubusercontent.com/coolpilot11/stuff/main/buffaloDC34.png"]
                 }
             ]
         }
