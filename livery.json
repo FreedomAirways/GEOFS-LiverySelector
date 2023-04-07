@@ -1290,6 +1290,10 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a380/airchina.png"]
                 },
                 {
+                    "name": "Air China-Koryo",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/boeing_b787-9/airchinakoryo.jpg"]
+                },
+                {
                     "name": "Fedex",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b787-9/789fedex.jpg"]
                 },
