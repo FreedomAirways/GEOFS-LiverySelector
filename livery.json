@@ -25,6 +25,10 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/cessna_172/CSACESSNA.png"]
                 },
                 {
+                    "name": "test",
+                    "texture": ["https://raw.githubusercontent.com/coolpilot11/stuff/main/172test.png"]
+                },
+                {
                     "name": "Modern",
                     "texture": ["/models/aircraft/premium/cessna_172/texture_1.jpg"]
                 }
@@ -262,6 +266,21 @@
                 {
                     "name": "Czech Airlines (OK-NCA)",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a380/a380-csa.png"]
+                },
+                {
+                    "name": "Etihad Airways",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a380/etihad.png"]
+                },
+                {    "name": "Qantas (old design)",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a380/qantasold.jpg"]
+                },
+                {
+                    "name": "Korean Air Lines (clearer design)",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a380/koreaclear.jpg"]
+                },
+                {
+                    "name": "Malaysia Airlines (retired plane)",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a380/malaysiaret.jpg"]
                 }
             ]
         },
@@ -333,6 +352,19 @@
                 {
                     "name": "Saint-Exupery",
                     "texture": ["/models/aircraft/premium/p38/texture_1.jpg"]
+                }
+            ]
+        },
+        "16": {
+            "index": [3],
+            "parts": [0],
+            "liveries": [{
+                    "name": "US Air Force",
+                    "texture": ["https://raw.githubusercontent.com/coolpilot11/GEOFS-LiverySelector-test/main/liveries/douglas_dc3/usaf.png"]
+                },
+                {
+                    "name": "test",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/douglas_dc3/speculars/specular-fullpaint-matt.png"]
                 }
             ]
         },
