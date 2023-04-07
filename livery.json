@@ -355,19 +355,6 @@
                 }
             ]
         },
-        "16": {
-            "index": [3],
-            "parts": [0],
-            "liveries": [{
-                    "name": "US Air Force",
-                    "texture": ["https://raw.githubusercontent.com/coolpilot11/GEOFS-LiverySelector-test/main/liveries/douglas_dc3/usaf.png"]
-                },
-                {
-                    "name": "test",
-                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/douglas_dc3/speculars/specular-fullpaint-matt.png"]
-                }
-            ]
-        },
         "18": {
             "index": [3],
             "parts": [0],
@@ -2860,6 +2847,24 @@
                 {
                     "name": "Pacific Coastal",
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/tex13pacifwelo.jpg"]
+                }
+            ]
+        },
+        "16":{
+            "index": [3, 4],
+            "parts": [0, 0],
+            "liveries": [
+                {
+                    "name": "US Air Force",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/douglas_dc3/speculars/specular-fullpaint-matt.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/douglas_dc3/usaf.png"]
+                },
+                                {
+                    "name": "test",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/douglas_dc3/speculars/specular-fullpaint-matt.png"]
+                },
+                {
+                    "name": "Buffalo Airways",
+                    "texture": ["https://i.ibb.co/M9Yq31V/specular-buffalo.png", "https://i.ibb.co/GPvy9dx/buffalo-DC31.png"]
                 }
             ]
         }
