@@ -58,6 +58,10 @@
                     "texture": ["/models/aircraft/premium/737_700/texture_5.jpg"]
                 },
                 {
+                    "name": "GeoAIR",
+                    "texture": ["/models/aircraft/premium/737_700/texture_6.jpg"]
+                },
+                {
                     "name": "RyanAir",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-700/ryanair.png"]
                 },
@@ -367,6 +371,10 @@
                 {
                     "name": "Pepsi",
                     "texture": ["/models/aircraft/premium/concorde/texture_2.jpg"]
+                },
+                {
+                    "name": "Prototype 2",
+                    "texture": ["/models/aircraft/premium/concorde/texture_3.jpg"]
                 },
                 {
                     "name": "Ryanair",
