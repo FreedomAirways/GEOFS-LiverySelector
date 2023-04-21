@@ -2763,6 +2763,10 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bn_2/BN2pid.jpg"]
                 },
                 {
+                    "name": "ConvAir Danville - American Eagle",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bn_2/BN2Eagle.png"]
+                },
+                {
                     "name": "Skybus",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bn_2/bnskybus.png"]
                 }
