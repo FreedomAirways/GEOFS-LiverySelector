@@ -1298,6 +1298,10 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b787-9/789fedex.jpg"]
                 },
                 {
+                    "name": "ConvAir Danville - American Eagle",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/boeing_b787-9/789con-dan.jpg"]
+                },
+                {
                     "name": "Cebu - Qantas",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b787-9/cebuntas.png"]
                 },
