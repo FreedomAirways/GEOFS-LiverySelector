@@ -2750,10 +2750,26 @@
                 }
             ]
         },
-        "4398": {
+        "4398" : {
             "index": [0],
             "parts": [0],
             "liveries": [
+                {
+                    "name": "OLT",
+                    "texture": ["https://raw.githubusercontent.com/coolpilot11/stuff/main/BN2OLT2.png"]
+                },
+                {
+                    "name": "New England",
+                    "texture": ["https://raw.githubusercontent.com/coolpilot11/stuff/main/BN2NewEngland.png"]
+                },
+                {
+                    "name": "Figas",
+                    "texture": ["https://raw.githubusercontent.com/coolpilot11/stuff/main/BN2FIGAS.png"]
+                },
+                {
+                    "name": "Olympic Airways",
+                    "texture": ["https://raw.githubusercontent.com/coolpilot11/stuff/main/BN2OlympicAir.png"]
+                },
                 {
                     "name": "ARRIVA Airtransport - PID old",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bn_2/BN2pid2.jpg"]
@@ -2768,7 +2784,7 @@
                 },
                 {
                     "name": "Skybus",
-                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bn_2/bnskybus.png"]
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/britten-norman_BN2/skybus.png"]
                 }
             ]
         },
