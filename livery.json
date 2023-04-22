@@ -179,22 +179,22 @@
             "index": [8, 1, 2, 3],
             "parts": [0, 0, 0, 0],
             "liveries":[{
-                "name": "Flybe",
-                "textures": ["/models/aircraft/premium/dhc6/2_0.jpg", "/models/aircraft/premium/dhc6/3_0.jpg", "/models/aircraft/premium/dhc6/5_0.jpg", "/models/aircraft/premium/dhc6/4_0.jpg"]
-            },
-            {
-                "name": "Blank, baby!",
-                "textures": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/dhc_6/2_0_b.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/dhc_6/3_0_b.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/dhc_6/5_0_b.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/dhc_6/4_0_b.jpg"]
-            },
-            {
-                "name": "Arlandstar",
-                "textures": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/dhc_6/2_0as.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/dhc_6/3_0as.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/dhc_6/5_0as.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/dhc_6/4_0as.jpg"]
-            },
-            {
-                "name": "Canadian Air Force",
-                "textures": ["/models/aircraft/premium/dhc6/2_1.jpg", "/models/aircraft/premium/dhc6/3_1.jpg", "/models/aircraft/premium/dhc6/5_1.jpg", "/models/aircraft/premium/dhc6/4_1.jpg"]
-            }
-        ]
+                     "name": "Flybe",
+                     "textures": ["/models/aircraft/premium/dhc6/2_0.jpg", "/models/aircraft/premium/dhc6/3_0.jpg", "/models/aircraft/premium/dhc6/5_0.jpg", "/models/aircraft/premium/dhc6/4_0.jpg"]
+                 },
+                 {
+                     "name": "Blank, baby!",
+                     "textures": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/dhc_6/2_0_b.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/dhc_6/3_0_b.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/dhc_6/5_0_b.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/dhc_6/4_0_b.jpg"]
+                 },
+                 {
+                     "name": "Arlandstar",
+                     "textures": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/dhc_6/2_0as.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/dhc_6/3_0as.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/dhc_6/5_0as.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/dhc_6/4_0as.jpg"]
+                 },
+                 {
+                     "name": "Canadian Air Force",
+                     "textures": ["/models/aircraft/premium/dhc6/2_1.jpg", "/models/aircraft/premium/dhc6/3_1.jpg", "/models/aircraft/premium/dhc6/5_1.jpg", "/models/aircraft/premium/dhc6/4_1.jpg"]
+                 }
+            ]
         },
         "10": {
             "index": [3],
