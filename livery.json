@@ -2787,8 +2787,16 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bn_2/BN2pid2.jpg"]
                 },
                 {
+                    "name": "ARRIVA Airtransport - PID old BUSE",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bn_2/BN2pid2-buse.jpg"]
+                },
+                {
                     "name": "ARRIVA Airtransport - PID new",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bn_2/BN2pid.jpg"]
+                },
+                {
+                    "name": "ARRIVA Airtransport - PID new BUSE",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bn_2/BN2pid-buse(1).jpg"]
                 },
                 {
                     "name": "ConvAir Danville - American Eagle",
