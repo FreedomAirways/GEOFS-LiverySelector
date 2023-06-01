@@ -1449,6 +1449,10 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a220-300/a220-ryr-irl-lux.jpg"]
                 },
                 {
+                    "name": "ČSA - Aj4",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/airbus_a220-300/a220-csaaj4.jpg"]
+                },
+                {
                     "name": "Czech Airlines",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a220-300/csa.jpg"]
                 }
