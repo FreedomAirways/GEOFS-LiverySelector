@@ -2937,6 +2937,10 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bombardier_crj200/freeblue.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bombardier_crj200/freeblue.jpg"]
                 },
                 {
+                    "name": "Air Murmansk",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bombardier_crj200/airmurmansk.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bombardier_crj200/airmurmansk.jpg"]
+                },
+                {
                     "name": "Iberia Regional (new design)",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/iberianew.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/iberianew.png"]
                 },
