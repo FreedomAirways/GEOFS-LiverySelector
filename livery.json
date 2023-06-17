@@ -2761,6 +2761,10 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/Dash%208_Brussels.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/Dash%208_Brussels.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/Dash%208_Brussels.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/Dash%208_Brussels.jpg"]
                 },
                 {
+                    "name": "Air Canada (new design)",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/aircanada.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/aircanada.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/aircanada.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/aircanada.png"]
+                },
+                {
                     "name": "FlyBe (purple-white design)",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/flybepurple.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/flybepurple.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/flybepurple.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/flybepurple.jpg"]
                 }
