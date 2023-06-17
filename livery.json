@@ -2898,7 +2898,7 @@
                 }
             ]
         },
-        "16":{
+         "16":{
             "index": [3, 4],
             "parts": [0, 0],
             "liveries": [
@@ -2907,12 +2907,54 @@
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/douglas_dc3/speculars/specular-fullpaint-matt.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/douglas_dc3/usaf.png"]
                 },
                 {
-                    "name": "test",
-                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/douglas_dc3/speculars/specular-fullpaint-matt.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/douglas_dc3/speculars/specular-fullpaint-matt.png"]
+                    "name": "Buffalo Airways",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/douglas_dc3/speculars/specular-buffalo.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/douglas_dc3/buffalo.png"]
+                }
+            ]
+        },
+        "2706":{
+            "index": [0, 2],
+            "parts": [0, 0],
+            "liveries": [
+                {
+                    "name": "Malév Express",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/malev-express.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/malev-express.png"]
                 },
                 {
-                    "name": "Buffalo Airways",
-                    "texture": ["https://i.ibb.co/M9Yq31V/specular-buffalo.png", "https://raw.githubusercontent.com/coolpilot11/stuff/main/buffaloDC34.png"]
+                    "name": "Belavia",
+                    "texture": ["https://i.ibb.co/qyDqjRd/tex1.png", "https://i.ibb.co/qyDqjRd/tex1.png"]
+                },
+                {
+                    "name": "Iberia Regional (new design)",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/iberianew.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/iberianew.png"]
+                },
+                {
+                    "name": "Cebu Pacific",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/cebu.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/cebu.png"]
+                },
+                {
+                    "name": "Air Canada",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/aircanada.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/aircanada.jpg"]
+                },
+                {
+                    "name": "United Nations",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/un.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/un.png"]
+                },
+                {
+                    "name": "BritAir",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/britair.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/britair.png"]
+                },
+                {
+                    "name": "Independence Air",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/independenceair.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/independenceair.png"]
+                },
+                {
+                    "name": "CemAir",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/cemair.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/cemair.png"]
+                },
+                {
+                    "name": "Cimber",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/cimber.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/cimber.png"]
                 }
             ]
         }
