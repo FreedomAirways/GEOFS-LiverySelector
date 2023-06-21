@@ -34,7 +34,7 @@ async function init(){
     //Load liveries
 
 
-    await fetch("https://github.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/blob/main/livery.json").then(res => res.json()).then(data => liveryobj = data)
+    await fetch("https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/livery.json").then(res => res.json()).then(data => liveryobj = data)
 
     //remove original buttons
 
