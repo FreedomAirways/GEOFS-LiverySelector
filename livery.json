@@ -487,6 +487,10 @@
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/japan.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/japan.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/japan.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/japan.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/japan.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/japan.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/japan.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/japan.png", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/japan.png"]
                 },
                 {
+                    "name": "Freedom Yourcargo",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/boeing_b767-300er/fc.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/boeing_b767-300er/fc.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/boeing_b767-300er/fc.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/boeing_b767-300er/fc.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/boeing_b767-300er/fc.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/boeing_b767-300er/fc.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/boeing_b767-300er/fc.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/boeing_b767-300er/fc.jpg", "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/boeing_b767-300er/fc.jpg"]
+                },
+                {
                     "name": "Travel Service",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/travelservice.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/travelservice.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/travelservice.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/travelservice.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/travelservice.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/travelservice.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/travelservice.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/travelservice.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/travelservice.jpg"]
                 }
@@ -1756,6 +1760,10 @@
                 {
                     "name": "Freedom Businessline",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/airbus_a320neo/frebiz.jpg"]
+                },
+                {
+                    "name": "Icejet",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/airbus_a320neo/icj.jpg"]
                 },
                 {
                     "name": "VIVA Aerobus",
