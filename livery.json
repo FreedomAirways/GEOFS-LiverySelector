@@ -1714,6 +1714,10 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a320neo/plain_2-csa2.jpg"]
                 },
                 {
+                    "name": "Freedom Airways - Czechia 30 years of Indepenence livery",
+                    "texture": ["https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/airbus_a320neo/freecz.jpg"]
+                },
+                {
                     "name": "Airbus A360-500 house",
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/airbus_a320neo/a360-house.jpg"]
                 },
