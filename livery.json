@@ -3249,6 +3249,12 @@
                     ]
                 },
                 {
+                    "name": "VRA",
+                    "texture": [
+                        "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/a330/vra.png"
+                    ]
+                },
+                {
                     "name": "Virgin Atlantic",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a330-900neo/VirginAtlantic.png"
