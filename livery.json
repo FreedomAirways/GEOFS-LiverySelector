@@ -4506,6 +4506,158 @@
                     "name": "Jet2",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b757-300wl/jet2.png"
+                                      ]
+                }
+            ]
+        },
+        "25": {
+            "index": [
+                2,
+                3
+            ],
+            "parts": [
+                0,
+                0
+            ],
+            "liveries": [
+                {
+                    "name": "American Airlines (new design)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "/models/aircraft/premium/777_300/texture_0.jpg"
+                    ]
+                },
+                {
+                    "name": "American Airlines (old design)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_1.jpg",
+                        "/models/aircraft/premium/777_300/texture_1.jpg"
+                    ]
+                },
+                {
+                    "name": "Air France",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/airfrance.jpg"
+                    ]
+                },
+                {
+                    "name": "Air Canada (old design)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/aircanadaold.png"
+                    ]
+                },
+                {
+                    "name": "Japan Airlines (Tsurmaru design)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/jaltsurumaru.png"
+                    ]
+                },
+                {
+                    "name": "Japan Airlines (Arc of the Sun design)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/jalarcofthesun.jpg"
+                    ]
+                },
+                {
+                    "name": "Malaysia Airlines",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/malaysia.jpg"
+                    ]
+                },
+                {
+                    "name": "Philippine Airlines",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/philippines.jpg"
+                    ]
+                },
+                {
+                    "name": "Swiss Air",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/swiss.jpg"
+                    ]
+                },
+                {
+                    "name": "Turkmenistan Airlines",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/turkmenistan.png"
+                    ]
+                },
+                {
+                    "name": "Qatar Airways (retro livery)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/qatarretro.jpg"
+                    ]
+                },
+                {
+                    "name": "EVA Air",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/eva.jpg"
+                    ]
+                },
+                {
+                    "name": "KLM (new design)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/klm.jpg"
+                    ]
+                },
+                {
+                    "name": "Emirates (new design)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/emirates.png"
+                    ]
+                },
+                {
+                    "name": "Air China",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/airchina.png"
+                    ]
+                },
+                {
+                    "name": "Korean Air Lines",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/Korean.png"
+                    ]
+                },
+                {
+                    "name": "Saudia",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/Saudia.jpg"
+                    ]
+                },
+                {
+                    "name": "Saudi Arabian",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/saudiarabian"
+                    ]
+                },
+                {
+                    "name": "Southwind Airlines",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/southwind.png"
+                    ]
+                },
+                {
+                    "name": "United (old design)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/unitedold.png"
                     ]
                 }
             ]
