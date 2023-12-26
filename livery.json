@@ -4591,6 +4591,13 @@
                     ]
                 },
                 {
+                    "name": "Czech Airines",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/FreedomAirways/PRIVATE-GEOFS-LiverySelector/main/liveries/773/cz.png"
+                    ]
+                },
+                {
                     "name": "Qatar Airways (retro livery)",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
